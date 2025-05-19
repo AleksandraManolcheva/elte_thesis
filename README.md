@@ -1,4 +1,4 @@
-# thesis
+# elte_thesis
 This project evaluates and compares search performance across MongoDB and Elasticsearch when applied to healthcare data workflows, specifically focusing on eligibility assessment, financial documentation, and patient status tracking within large-scale, distributed systems.
 
 This repository includes:
